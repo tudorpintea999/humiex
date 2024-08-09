@@ -1,6 +1,6 @@
 defmodule Humiex.Support.HTTPAsyncClient do
   @moduledoc """
-  Async HTTP Client behaviour expected to be used with Stream.Resource/3
+  Async HTTP Client behavior is expected to be used with Stream.Resource/3
   """
   alias Humiex.State
 
